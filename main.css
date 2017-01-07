@@ -80,12 +80,12 @@ div.pic{
 	float:left;
 	margin: 5px;
 	width: 25%;
+	-webkit-transition: width 0.2s, height 0.2s;
 }
 
 div.pic img{
 	width: 100%;
 	height: auto;
-	-webkit-transition: width 0.2s, height 0.2s;
 }
 
 div.pic:hover{
