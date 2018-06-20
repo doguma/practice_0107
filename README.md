@@ -1,2 +1,5 @@
-# practice_0107
-daily and icecream
+# html/css practice
+
+## gallery page "daily"
+
+![Optional Text](../master/dailypage.png)
