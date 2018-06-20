@@ -1,5 +1,5 @@
 # html/css practice
 
-## gallery page "daily"
+### gallery page "daily"
 
 ![Optional Text](../master/dailypage.png)
